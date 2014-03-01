@@ -3,6 +3,8 @@
 	<name>BlackBox_EAR</name>
 	<comment></comment>
 	<projects>
+		<project>BlackBox_Business</project>
+		<project>BlackBox_Database</project>
 		<project>BlackBox_WebApp</project>
 	</projects>
 	<buildSpec>
