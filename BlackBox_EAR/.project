@@ -5,7 +5,7 @@
 	<projects>
 		<project>BlackBox_Business</project>
 		<project>BlackBox_Database</project>
-		<project>BlackBox_WebApp</project>
+		<project>BlackBox_Web</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

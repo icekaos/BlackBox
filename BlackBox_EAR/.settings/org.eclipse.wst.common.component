@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
     <wb-module deploy-name="BlackBox_EAR">
         <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
-        <dependent-module archiveName="BlackBox_WebApp.war" deploy-path="/" handle="module:/resource/BlackBox_WebApp/BlackBox_WebApp">
+        <dependent-module archiveName="BlackBox_Web.war" deploy-path="/" handle="module:/resource/BlackBox_Web/BlackBox_Web">
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>
