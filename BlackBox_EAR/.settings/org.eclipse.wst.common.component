@@ -5,5 +5,11 @@
             <dependent-object/>
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="BlackBox_Database.jar" deploy-path="/lib" handle="module:/resource/BlackBox_Database/BlackBox_Database">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="BlackBox_Business.jar" deploy-path="/lib" handle="module:/resource/BlackBox_Business/BlackBox_Business">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
     </wb-module>
 </project-modules>
